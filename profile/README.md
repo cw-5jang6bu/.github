@@ -1,10 +1,14 @@
 # Cloud Wave 4기 1조 올리브영 쇼핑몰 인프라 구축
-## AWS를 활용한 안정적인 쿠폰 발급 서비스
 ![e69b6b167d4a20702b7dd800171abb18-0](https://github.com/user-attachments/assets/981447fa-cd45-41e0-bba1-046567d8c971)
 
+## 👨‍🏫 프로젝트 소개
+올리브영에서 90% 할인 쿠폰을 지급하는 이벤트를 진행합니다. 대규모 트래픽이 몰릴것을 대비해 시스템 및 쿠폰 발급/조회 서비스를 구축했습니다.
 
+## ⏲️ 개발 기간 
+- 2025.02.7(금) ~ 2025.02.27(목)
 
-## 구성원
+  
+## 🧑‍🤝‍🧑 구성원
 <div align="center">
 
 |  송종인  |  박성훈  |  김경민  |  문병헌  |  이지영  |
@@ -14,12 +18,13 @@
 
 </div>
 
-## 배경
+
+## 📌 프로젝트 배경
 ![e69b6b167d4a20702b7dd800171abb18-3](https://github.com/user-attachments/assets/96ea661e-e14a-44eb-9dab-fcf84d037403)
 ![e69b6b167d4a20702b7dd800171abb18-6](https://github.com/user-attachments/assets/8f0ffb9f-c7c5-48a2-8416-f7e58ab9ce31)
 ![e69b6b167d4a20702b7dd800171abb18-5](https://github.com/user-attachments/assets/ff3ea9fc-49be-4d75-94a3-2508483c7ebb)
 
-## 전체 아키텍처
+## ⚙️ Architecture
 ![e69b6b167d4a20702b7dd800171abb18-15](https://github.com/user-attachments/assets/9fc1cc7a-557b-49c4-b12c-24c7f1ef24e7)
 ![e69b6b167d4a20702b7dd800171abb18-16](https://github.com/user-attachments/assets/152cc7f0-2e6d-402a-a11a-e83325196b83)
 ![e69b6b167d4a20702b7dd800171abb18-17](https://github.com/user-attachments/assets/0c0358ea-2d01-439a-b79e-3ad52dc22f0a)

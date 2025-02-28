@@ -8,7 +8,7 @@
 - 2025.02.7(금) ~ 2025.02.27(목)
 
   
-## 🧑‍🤝‍🧑 구성원
+## 🧑‍🤝‍🧑 구성원 소개 및 역할
 <div align="center">
 
 |  송종인  |  박성훈  |  김경민  |  문병헌  |  이지영  |
@@ -16,28 +16,36 @@
 | <img width="116" alt="송종인" src="https://github.com/user-attachments/assets/04ffd101-0699-49bd-8ca4-04a8f9432aa3" /> | <img width="116" alt="박성훈" src="https://github.com/user-attachments/assets/2d95ede3-1867-4ee8-a0a7-44c86f94f9dd" />| <img width="115" alt="김경민" src="https://github.com/user-attachments/assets/9e61b2ae-3385-4cbe-82ce-118c4943000d" />| <img width="116" alt="문병헌" src="https://github.com/user-attachments/assets/7ebcbd47-e931-4da4-a4e1-d30428afab53" />| <img width="116" alt="이지영" src="https://github.com/user-attachments/assets/3ecf1a86-aa0c-4a83-a9cc-494eabf198d0" />
 |[@Son-github](https://github.com/Son-github)| [@smile9855](https://github.com/smile9855)| [@gyungmean](https://github.com/gyungmean) | [@MBH992](https://github.com/MBH992) | [@lakedata](https://github.com/lakedata) | 
 
+
+- **송종인** : 
+- **박성훈** : EKS 구축 및 ArgoCD 배포
+- **김경민** : 
+- **문병현** : 
+- **이지영** : 
+ 
 </div>
 
 
 ## 📌 프로젝트 배경
-![e69b6b167d4a20702b7dd800171abb18-3](https://github.com/user-attachments/assets/96ea661e-e14a-44eb-9dab-fcf84d037403)
-![e69b6b167d4a20702b7dd800171abb18-6](https://github.com/user-attachments/assets/8f0ffb9f-c7c5-48a2-8416-f7e58ab9ce31)
-![e69b6b167d4a20702b7dd800171abb18-5](https://github.com/user-attachments/assets/ff3ea9fc-49be-4d75-94a3-2508483c7ebb)
+![Image](https://github.com/user-attachments/assets/6aa3f88b-8e18-4523-b213-86f96fb6dc3b)
+![Image](https://github.com/user-attachments/assets/3dd3a565-752a-448b-98e6-4717918054b2)
 
-## ⚙️ Architecture
-![e69b6b167d4a20702b7dd800171abb18-15](https://github.com/user-attachments/assets/9fc1cc7a-557b-49c4-b12c-24c7f1ef24e7)
-![e69b6b167d4a20702b7dd800171abb18-16](https://github.com/user-attachments/assets/152cc7f0-2e6d-402a-a11a-e83325196b83)
-![e69b6b167d4a20702b7dd800171abb18-17](https://github.com/user-attachments/assets/0c0358ea-2d01-439a-b79e-3ad52dc22f0a)
-![e69b6b167d4a20702b7dd800171abb18-18](https://github.com/user-attachments/assets/e0ab78a6-72ad-44d3-ab69-37b74176a4ac)
+## ⚙️ 주요 선정 서비스
+![Image](https://github.com/user-attachments/assets/46a11edc-2889-4d50-8bfe-96b86d08565b)
 
-## aws 리소스
-![image](https://github.com/user-attachments/assets/48829109-4752-4c5f-8b65-7ca3a0c51c9c)
+## 📝 Architecture
+![Image](https://github.com/user-attachments/assets/28161e59-12c9-40e2-900f-0f8f941de8b3)
 
-## 분석
-![e69b6b167d4a20702b7dd800171abb18-10](https://github.com/user-attachments/assets/83539ef9-0b9f-4790-8613-7a5caee1c622)
-![e69b6b167d4a20702b7dd800171abb18-11](https://github.com/user-attachments/assets/2100a870-3a94-4672-817f-3d6d36aa69fa)
-![e69b6b167d4a20702b7dd800171abb18-12](https://github.com/user-attachments/assets/894fa10b-a315-4f06-bacf-02f0b64ecc01)
-![e69b6b167d4a20702b7dd800171abb18-13](https://github.com/user-attachments/assets/bbd0973e-6c61-4a79-9478-4d5e61cf1237)
-![e69b6b167d4a20702b7dd800171abb18-14](https://github.com/user-attachments/assets/8c987ed4-34dd-4a4f-9913-e0425ee09a8f)
+## 📝 Architecture - DEV
+![Image](https://github.com/user-attachments/assets/55a69d09-a754-4ba8-b9d6-6b6ebbe159ce)
+
+## 📝 Architecture - PROD
+![Image](https://github.com/user-attachments/assets/a0ffe962-3471-444d-8404-1bc76601d763)
+
+
+## 💻 시연 영상
+
+
+
 
 

@@ -25,6 +25,9 @@
 ![e69b6b167d4a20702b7dd800171abb18-17](https://github.com/user-attachments/assets/0c0358ea-2d01-439a-b79e-3ad52dc22f0a)
 ![e69b6b167d4a20702b7dd800171abb18-18](https://github.com/user-attachments/assets/e0ab78a6-72ad-44d3-ab69-37b74176a4ac)
 
+## aws 리소스
+![image](https://github.com/user-attachments/assets/48829109-4752-4c5f-8b65-7ca3a0c51c9c)
+
 ## 분석
 ![e69b6b167d4a20702b7dd800171abb18-10](https://github.com/user-attachments/assets/83539ef9-0b9f-4790-8613-7a5caee1c622)
 ![e69b6b167d4a20702b7dd800171abb18-11](https://github.com/user-attachments/assets/2100a870-3a94-4672-817f-3d6d36aa69fa)

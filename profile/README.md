@@ -74,6 +74,7 @@
 
 
 ## 💻 시연 영상
+https://youtu.be/hDp876jWmXs?si=WIBmFI4MyWozBmYG
 
 
 
